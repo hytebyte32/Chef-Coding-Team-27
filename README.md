@@ -1,3 +1,5 @@
+### This is a fork of the original repo
+
 **Project Description**
 
 This project integrates multiple public APIs to answer discover where the healthiest food options available are given location and desired food, based on nutritional data from multiple sources. To do this, we combine location-based vendor data from Geoapify with nutritional insights from Spoonacular, Edamam, and Open Food Facts. The system identifies food items or dishes served nearby and evaluates their healthiness using ingredient-level nutrition analysis and Nutri-Score ratings.
