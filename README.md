@@ -47,7 +47,7 @@ your dish.
 
 **Project Credits**
 
-Muhammad Ahmad: Created OpenFoodFacts API and it's corresponding tests
+Muhammad Ahmad: Integrated OpenFoodFacts API and it's corresponding tests
 
 Kwan Nok Lau: Integrated Geoapify API and it's corresponding tests
 
