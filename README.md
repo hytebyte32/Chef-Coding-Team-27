@@ -79,28 +79,26 @@ container ex. docker run -i hchiang9/team27-chef-coding:latest
 1. Run the program, either through downloading code to run locally or through Docker
 as mentioned
 
-!(img/step1.png)
+![](img/step1.png)
 
 
 
 2. Enter a dish that you would like to find the Nutri-score (indicating how healthy it is)
 and your postal code.
 
-a. Dish name is not case-sensitive
+  a. Dish name is not case-sensitive
 
-b. Postal code is not case-sensitive, HOWEVER ensure that it is in the form of
-(letter)(number)(letter)(SPACE) (number)(letter)(number). Ex. N6A 3K7
+  b. Postal code is not case-sensitive, HOWEVER ensure that it is in the form of (letter)(number)(letter)(SPACE) (number)(letter)(number). Ex. N6A 3K7
 
-!(img/step2.png)
+![](img/step2.png)
 
 3. Let the program run. If the APIs are successful in finding a recipe for your dish, they
 will display a recipe followed by details of up to 3 restaurants nearby that may serve
 your dish.
 
-a. Note: Results may vary with dish name and location. Restaurants are
-searched through your location and the cuisine of the user-entered dish. 
+  a. Note: Results may vary with dish name and location. Restaurants are searched through your location and the cuisine of the user-entered dish. 
 
-!(img/step3.png)
+![](img/step3.png)
 
 
 
