@@ -5,6 +5,7 @@ This project integrates multiple public APIs to answer discover where the health
 This project focuses on real-world food discovery by finding healthier food options available near you. The system helps users make informed decisions when dining out or ordering in, by analyzing food offerings at nearby locations.
 
 **Geoapify Places API**
+
 Used to find nearby restaurants, grocery stores, and food vendors based on geolocation.
 
 **Spoonacular API**
