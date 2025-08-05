@@ -56,14 +56,23 @@ Evaluate the healthiness of those offerings using nutritional metrics
 Recommend the healthiest nearby options
 
 **APIS Used**
+
 https://developer.edamam.com/edamam-recipe-api
+
 https://apidocs.geoapify.com/
+
 https://openfoodfacts.github.io/openfoodfacts-server/api/
+
 https://spoonacular.com/food-api
 
+
 **Project Credits**
+
 Muhammad Ahmad: Created OpenFoodFacts API and it's corresponding tests
+
 Kwan Nok Lau: Integrated Geoapify API and it's corresponding tests
+
 Harold Chiang: Integrated Spoonacular API, it's corresponding tests, responsible for packaging project into docker container, and helped with debugging
+
 Andrew Liang: Integrated Edamam API, it's corresponding tests, consolidated all other modules into a single application, and helped with debugging
 
