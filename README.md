@@ -86,9 +86,9 @@ as mentioned
 2. Enter a dish that you would like to find the Nutri-score (indicating how healthy it is)
 and your postal code.
 
-&nbsp;&nbsp;a. Dish name is not case-sensitive
+&nbsp; &nbsp; &nbsp; &nbsp; a. Dish name is not case-sensitive
 
-&nbsp;&nbsp;b. Postal code is not case-sensitive, HOWEVER ensure that it is in the form of (letter)(number)(letter)(SPACE) (number)(letter)(number). Ex. N6A 3K7
+&nbsp; &nbsp; &nbsp; &nbsp; b. Postal code is not case-sensitive, HOWEVER ensure that it is in the form of (letter)(number)(letter)(SPACE) (number)(letter)(number). Ex. N6A 3K7
 
 ![](img/step2.png)
 
@@ -96,7 +96,7 @@ and your postal code.
 will display a recipe followed by details of up to 3 restaurants nearby that may serve
 your dish.
 
-&nbsp;&nbsp;a. Note: Results may vary with dish name and location. Restaurants are searched through your location and the cuisine of the user-entered dish. 
+&nbsp; &nbsp; &nbsp; &nbsp; a. Note: Results may vary with dish name and location. Restaurants are searched through your location and the cuisine of the user-entered dish. 
 
 ![](img/step3.png)
 
